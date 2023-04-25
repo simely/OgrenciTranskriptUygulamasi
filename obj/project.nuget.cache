@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tJNjkZogO0E1ax5hRYV5Xu1ITydv1qmY6iOqQ3cc2cwRx7e3nXN/rURWdmPqS6i2fELFx2ZryfE122Z8r4mwhA==",
+  "success": true,
+  "projectFilePath": "D:\\Ödevler\\2.Sınıf\\Güz\\VeritabanıYönetimSistÖdev2\\210601029_Simel_Yüksel_Ödev2\\BİL203-Odev2\\BİL203-Odev2\\BİL203-Odev2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ideapad\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ideapad\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\ideapad\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
